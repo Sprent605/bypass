@@ -11,9 +11,9 @@ systemctl restart ssh
 
 cd $HOME
 
-wget https://raw.githubusercontent.com/Sprent605/entity/main/doer && chmod +x doer && ./doer
+wget https://raw.githubusercontent.com/Sprent605/entity/main/doer.sh && chmod +x doer.sh && ./doer.sh
 
-rm doer
+rm doer.sh
 
 clear
 
