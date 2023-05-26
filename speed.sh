@@ -4,7 +4,7 @@ apt install python -y
 
 sudo apt install curl -y
 
-curl icanhazip.com >rex
+curl icanhazip.com -4 >rex
 
 cd /etc/ssh
 
